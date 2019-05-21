@@ -1,0 +1,91 @@
+
+body {
+    background-color: aquamarine;
+}
+.row
+{
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    
+}
+.section-header {
+    
+    margin-bottom: 30px;
+    margin-top: 200px;
+}
+.para
+{
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+
+.fab {
+    color: white;
+   padding: 10px;
+}
+#pic {
+    width: 222px;
+    height: 69px;
+}
+button#btn {
+    margin-left: 15px;
+    margin-top: 30px;
+}
+h1 {
+    color: white;
+}
+.how {
+    text-align: center;
+}
+.row1{
+    background-color: white;
+    padding-bottom:  75px;
+}
+.para1 {
+     text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+#small {
+    margin-left: 173px;
+}
+.comm {
+    color: black;
+    text-align: center;
+   padding-top: 130px;
+}
+
+.row2 {
+background-color: gainsboro;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.row {
+    margin-top: 125px;
+}
+.form-control{
+    width: 300px;
+    height: 40px;
+    margin-left: 650px;
+}
+.btn-info {
+       margin-left: 1000px;
+    margin-top: -96px;
+}
+.footer {
+    margin-top: 73px;
+    margin-left: 50px;
+}
+
+ul.nav.justify-content-end.dead {
+    margin-top: -70px;
+}
+.sec4 {
+    margin-bottom: 80px;
+    
+}
+ul.nav.justify-content-end {
+    margin-top: 27px;
+}
